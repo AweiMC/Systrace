@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "systrace",
+  "version": "${version}",
+  "name": "Systrace",
+  "description": "A diagnostic tool that exports system, thread, mixin and JFR profiling data.",
+  "authors": [
+    "AweiMC"
+  ],
+  "contact": {
+    "homepage": "https://github.com/AweiMC",
+    "sources": "https://github.com/AweiMC/Systrace",
+    "issues": "https://github.com/AweiMC/Systrace/issues"
+  },
+  "license": "GNU AGPLv3",
+  "icon": "assets/systrace/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.aweimc.systrace.fabric.SystraceFabric"
+    ],
+    "client": [
+      "me.aweimc.systrace.fabric.client.SystraceFabricClient"
+    ]
+  },
+  "mixins": [
+    "systrace.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
