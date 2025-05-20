@@ -54,4 +54,14 @@ Feel free to submit issues or contribute to the project!
 ## 📝 License
 
 This project is licensed under the **GNU AGPLv3**.  
-See [`LICENSE`](./LICENSE) for more information.
+See [`LICENSE`](./LICENSE) for more information.  
+
+---
+
+## 📚 READMEs
+
+- [English](./README.md)
+- [简体中文](./README_ZH.md)
+
+---
+
