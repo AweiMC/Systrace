@@ -55,3 +55,10 @@ Systrace 可以：
 本模组基于 **GNU AGPLv3** 协议开源发布。  
 使用或修改请遵守相关条款，详情见 [`LICENSE`](./LICENSE)。
 
+
+---
+
+💖 如果你喜欢这个项目,请支持我吧! [前往 Ko-fi](https://ko-fi.com/aweimc)!
+
+
+---
