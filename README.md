@@ -64,9 +64,7 @@ See [`LICENSE`](./LICENSE) for more information.
 - [简体中文](./README_ZH.md)
 
 ---
-
-💖 If you like this project, consider [supporting me on Ko-fi](https://ko-fi.com/aweimc)!
-
-
----
+## ☕ Support
+  
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/aweimc)
 
