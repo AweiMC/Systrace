@@ -40,7 +40,7 @@ Once in-game, use the following commands:
 - `/ste jfr stop`  
   Stop and save the JFR recording file
 
-All output will be saved in the `.minecraft/systrace/` directory.
+All output will be saved in the `./systrace` directory.
 
 ---
 
