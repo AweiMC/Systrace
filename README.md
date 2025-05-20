@@ -20,8 +20,8 @@ This means you don't need the client to install it for the server to run properl
 
 Download the correct version for your Minecraft loader and version from:
 
-- [CurseForge](https://curseforge.com/...) ← to be filled  
-- [Modrinth](https://modrinth.com/...) ← to be filled  
+- [CurseForge](https://curseforge.com/minecraft/mc-mods/systrace)
+- [Modrinth](https://modrinth.com/mod/systrace)
 
 Place the `.jar` into your `mods/` folder and launch the game.
 
