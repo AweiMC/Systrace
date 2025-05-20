@@ -20,8 +20,8 @@ Systrace 可以：
 
 你可以从以下网站下载对应版本：
 
-- [CurseForge](https://curseforge.com/...) ← 补全地址  
-- [Modrinth](https://modrinth.com/...) ← 补全地址  
+- [CurseForge](https://curseforge.com/minecraft/mc-mods/systrace)
+- [Modrinth](https://modrinth.com/mod/systrace)
 
 下载完成后将 `.jar` 放入 `mods/` 文件夹，启动游戏即可。
 
