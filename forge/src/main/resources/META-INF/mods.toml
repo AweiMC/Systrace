@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+issueTrackerURL = "https://github.com/AweiMC/Systrace/issues"
+license = "GNU AGPL 3.0"
+
+[[mods]]
+modId = "systrace"
+version = "${version}"
+displayName = "SysTrace"
+authors = "AweiMC"
+description = '''
+A diagnostic tool that exports system, thread, mixin and JFR profiling data.
+'''
+logoFile = "assets/systrace/icon.png"
+
+[[dependencies.systrace]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.systrace]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
