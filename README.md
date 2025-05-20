@@ -65,3 +65,8 @@ See [`LICENSE`](./LICENSE) for more information.
 
 ---
 
+💖 If you like this project, consider [supporting me on Ko-fi](https://ko-fi.com/aweimc)!
+
+
+---
+
