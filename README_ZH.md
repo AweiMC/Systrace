@@ -61,6 +61,5 @@ Systrace 可以：
 ## ☕ 捐赠
   
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/aweimc)  
-[爱发电](https://afdian.com/a/AweiMC)  
 
 ---
