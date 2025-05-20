@@ -58,7 +58,8 @@ Systrace 可以：
 
 ---
 
-💖 如果你喜欢这个项目,请支持我吧! [前往 Ko-fi](https://ko-fi.com/aweimc)!
-
+## ☕ 捐赠
+  
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/aweimc)
 
 ---
